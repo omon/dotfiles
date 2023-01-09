@@ -1,0 +1,5 @@
+[user]
+	email = otfmcmrf2@gmail.com
+	name = junichi ohashi
+[core]
+	editor = vim -c \"set fenc=utf-8\"
