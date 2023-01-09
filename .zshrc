@@ -8,7 +8,8 @@ HISTSIZE=1000000
 SAVEHIST=1000000
 
 # prompt display
-PROMPT="%{${fg[green]}%}[%n@%m]%{${reset_color}%} ~ %$ "
+PROMPT="%{${fg[green]}%}[%n@%m]%{${reset_color}%} %~ 
+%# "
 
 # split word
 autoload -Uz select-word-style
